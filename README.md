@@ -6,10 +6,14 @@ This is a small project that utilizes the Swing library in Java to provide simpl
 Concept:
 
 The user can choose a CSV file from their file system.
+
 The expected format of the file is as follows: (EmployeeId, ProjectId, StartWorkingTime, FinishWorkingTime).
+
 Most common date-time formats are supported.
 If the user has chosen the correct file and the process has read permission:
+
 The user can choose to visualize the data in the file. If the data is corrupted, invalid, or missing, appropriate error messages will be displayed.
+
 The user can choose to view the pair of employees who have worked together for the most days on the same projects. For each project where the pair has worked simultaneously, it displays the number of days they have worked together.
 
 
