@@ -20,10 +20,12 @@ The user can choose to view the pair of employees who have worked together for t
 
 <img width="1440" alt="Screenshot 2023-05-17 at 21 08 44" src="https://github.com/bonshte/shtilian-bonchev-employees/assets/81927085/976947e8-87bc-479d-bf00-68377902b538">
 
-<img width="1440" alt="Screenshot 2023-05-17 at 21 15 25" src="https://github.com/bonshte/shtilian-bonchev-employees/assets/81927085/42ca9458-a3f7-4029-a83f-6d5cd9e180d1">
 
 
-<img width="1440" alt="Screenshot 2023-05-17 at 21 15 27" src="https://github.com/bonshte/shtilian-bonchev-employees/assets/81927085/f1d9db72-fc0b-4a4d-b7ad-20083065e201">
+<img width="1440" alt="Screenshot 2023-05-17 at 21 17 20" src="https://github.com/bonshte/shtilian-bonchev-employees/assets/81927085/9fe362da-71e6-402f-9f26-c0d6f41ab212">
+<img width="1440" alt="Screenshot 2023-05-17 at 21 17 26" src="https://github.com/bonshte/shtilian-bonchev-employees/assets/81927085/d19bd9b6-c47e-4356-88f0-a4020e913ac9">
+
+
 
 
 <img width="1440" alt="Screenshot 2023-05-17 at 21 08 47" src="https://github.com/bonshte/shtilian-bonchev-employees/assets/81927085/4156c0ed-f882-4a48-85d1-1b15bf31cc94">
